@@ -1,4 +1,3 @@
-/* Aim: Implementation of BREADTH FIRST SEARCH, DEPTH FIRST SEARCH */
 
 #include<stdio.h>
 int adj[20][20],i,j,n,max_edge;
