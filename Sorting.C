@@ -1,4 +1,3 @@
-/* Aim: Implementation of SHELL SORT, INSERTION SORT & RADIX SORT menu driven program */
 
 #include<stdio.h>
 int a[20],n;
